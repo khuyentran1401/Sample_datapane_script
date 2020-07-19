@@ -1,0 +1,22 @@
+name: visualization_medium
+script: visualization.py # this could also be ipynb if it was a notebook
+title: Medium Visualization
+  
+parameters:
+  - name: author_name
+    description: Name of the author you want to know the rank
+    type: string
+    required: False
+    default: Khuyen Tran
+  - name: publication_name
+    description: Name of the publication you want to know the rank
+    type: string 
+    required: False
+    default: Towards Data Science
+ 
+  
+include:
+  - publication_count
+  - publication_rank
+  - author_count
+
