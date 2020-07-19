@@ -1,6 +1,8 @@
 # Sample Datapane Script
 
-This is the example code to show how to create [this script](https://datapane.com/khuyentran1401/scripts/visualization_medium/) with Datapane. This script shows the ranks of the author and publications on Medium with respect to publishing frequency last year
+This is the example code to show how to create [this script](https://datapane.com/khuyentran1401/scripts/visualization_medium/) with Datapane. This script shows the ranks of the author and publications on Medium with respect to publishing frequency last year. 
+
+Find the instruction to create a script with Datapane [here](https://docs.datapane.com/tutorials/tut-deploying-a-script) and options to set up the parameters [here](https://docs.datapane.com/reference/scripts/parameters)
 
 ## Descriptions of files in this repo
 * [Visualization.ipynb](https://github.com/khuyentran1401/Sample_datapane_script/blob/master/Visualization.ipynb):
